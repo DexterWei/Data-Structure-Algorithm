@@ -1,0 +1,1 @@
+This work implements a polynomial class, supports operations on complex numbers.
